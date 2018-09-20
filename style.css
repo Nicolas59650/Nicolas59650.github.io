@@ -1,0 +1,248 @@
+@font-face {
+    font-family: "Aniron";
+    src: url(anicm___.ttf);
+}
+
+@font-face
+{
+    font-family: "Symbol";
+    src: url(tnganbi.ttf);
+}
+
+.elvesL{
+    font-family: "Symbol";
+    color:#D44E19;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    font-family: "Aniron";
+}
+
+h2{
+    font-size: 2em;
+}
+
+h3{
+    font-size: 2em;
+}
+
+.line{
+    text-decoration:line-through;
+   
+}
+.text{
+    color: white !important;
+}
+
+
+
+
+footer
+{
+    font-family: "Symbol";
+    font-size: 1.4em;
+}
+
+p
+{
+    font-family: "Party";
+}
+
+td
+{
+    font-family: "Party";
+}
+
+.fontsize
+{
+    font-size: 1.4em;
+}
+
+.fontsize2
+{
+    font-size: 1em;
+}
+
+.gollum
+{
+    font-size: 2em;
+}
+
+.bgdark
+{
+    background: url(bg_dark.png) repeat;
+    background-size: contain;
+}
+
+.bglight
+{
+    background: url(bg-light.png) repeat-x;
+    background-size: contain;
+}
+
+.lorem
+{
+    height: 7rem;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.lorem:hover
+{
+    height: auto;
+}
+
+.size-text
+{
+    font-size: small;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+
+td
+{
+    border: 1px solid black;
+}
+
+footer ul
+{
+    list-style: none;
+}
+
+a, a:hover
+{
+    text-decoration: none;
+}
+
+.background-black
+{
+    background-color: #424242;
+}
+
+footer a
+{
+    color: #f2f2f2;
+}
+
+.image1
+{
+    background: url(https://i.goopics.net/E2xn7.png) no-repeat;
+    background-size: contain;
+}
+
+.image2
+{
+    background: url(https://i.goopics.net/xj5lE.png) no-repeat;
+    background-size: contain;
+}
+
+.image3
+{
+    background: url(https://i.goopics.net/2ZWqA.png) no-repeat;
+    background-size: contain;
+}
+
+.image-hid
+{
+    visibility: hidden;
+}
+
+.navbar
+{
+    background-color: #D44E19;
+    font-size:normal;
+    width:100%;
+    padding:0%;
+}
+.navbar li{
+    width:100%;
+    margin:0% 1% 0% 1%;
+    border-style:solid;
+    border-width:0px 2px 0px 0px;
+    border-color:white;
+    text-align:center;
+}
+
+.navbar a
+{
+    color:white;
+}
+
+.masque
+{
+    background-color: rgba(48, 48, 48, 0.4);
+    background-size: contain;
+}
+
+.hidtotal:hover
+{
+    opacity: 0;
+}
+
+.gold
+{
+    margin-top: 1rem;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+}
+
+.gimli
+{
+    margin-top: 1rem;
+    position: absolute;
+}
+
+.orange
+{
+    color: #D44E19;
+}
+
+.txtcenter
+{
+    position: absolute;
+    color: white;
+    margin-top: 70%;
+}
+
+.underline-txt
+{
+    text-decoration:underline;
+    color: #424242;
+}
+
+#Fellows .nav-link.active{
+    background-color:unset; !important;
+    color:orange !important;
+    text-decoration:underline;
+}
+#Fellows .nav-link{
+    color:grey;
+    font-size:larger;
+    font-weight:bolder;
+}
+#Fellows ul span{
+    opacity:0;
+    font-family:"annatar";
+}
+#Fellows .nav-link:focus, .active span{
+    opacity:1 !important;
+}
+
+.colorwhite
+{
+    color: white;
+}
+
+.navbar, .nav-item{
+    background-color: #d44E19 !important;
+    font-family: "Aniron";
+}
+
+p {
+    font-family: "Aniron";  
+}
